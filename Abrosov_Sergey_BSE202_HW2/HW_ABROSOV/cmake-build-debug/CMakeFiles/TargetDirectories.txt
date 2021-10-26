@@ -1,0 +1,3 @@
+/Users/sergeyabrosov/Desktop/HW_ABROSOV/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sergeyabrosov/Desktop/HW_ABROSOV/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sergeyabrosov/Desktop/HW_ABROSOV/cmake-build-debug/CMakeFiles/HW_ABROSOV.dir

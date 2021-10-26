@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sergeyabrosov/Desktop/HW_ABROSOV/flower.h
+plants.h
+/Users/sergeyabrosov/Desktop/HW_ABROSOV/plants.h
+
+/Users/sergeyabrosov/Desktop/HW_ABROSOV/plants.cpp
+cstdio
+-
+cstring
+-
+plants.h
+/Users/sergeyabrosov/Desktop/HW_ABROSOV/plants.h
+flower.h
+/Users/sergeyabrosov/Desktop/HW_ABROSOV/flower.h
+shrub.h
+/Users/sergeyabrosov/Desktop/HW_ABROSOV/shrub.h
+tree.h
+/Users/sergeyabrosov/Desktop/HW_ABROSOV/tree.h
+rnd.h
+/Users/sergeyabrosov/Desktop/HW_ABROSOV/rnd.h
+
+/Users/sergeyabrosov/Desktop/HW_ABROSOV/plants.h
+cstdio
+-
+
+/Users/sergeyabrosov/Desktop/HW_ABROSOV/rnd.h
+stdlib.h
+-
+
+/Users/sergeyabrosov/Desktop/HW_ABROSOV/shrub.h
+plants.h
+/Users/sergeyabrosov/Desktop/HW_ABROSOV/plants.h
+
+/Users/sergeyabrosov/Desktop/HW_ABROSOV/tree.h
+plants.h
+/Users/sergeyabrosov/Desktop/HW_ABROSOV/plants.h
+

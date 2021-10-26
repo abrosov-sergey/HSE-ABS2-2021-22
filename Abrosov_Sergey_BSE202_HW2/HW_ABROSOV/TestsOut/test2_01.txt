@@ -1,0 +1,4 @@
+Filled container:
+Container contains 2 elements.
+0: It is flower: type = WILD. Name = podruga. Task result: 85.333333
+1: It is tree: number = 333. Name = dkfjdsklfsowowwow. Task result: 128.000000

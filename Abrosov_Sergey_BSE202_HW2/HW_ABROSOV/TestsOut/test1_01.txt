@@ -1,0 +1,3 @@
+Filled container:
+Container contains 1 elements.
+0: It is tree: number = 3446783. Name = roma. Task result: 85.333333
